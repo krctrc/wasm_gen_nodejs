@@ -1,0 +1,13 @@
+{
+  "name": "wasmedge_nodejs_starter",
+  "collaborators": [
+    "ubuntu"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasmedge_nodejs_starter_bg.wasm",
+    "wasmedge_nodejs_starter.js",
+    "wasmedge_nodejs_starter_bg.js"
+  ],
+  "main": "wasmedge_nodejs_starter.js"
+}
